@@ -6,16 +6,16 @@
 ---
 <h2 align="center">Hi, I am Shamonnoy. Welcome to my little code space</h2>
 
-# 👨‍💻 About Me  
-- 🎓 CSE (AIML) Student at **JIS College of Engineering**  
-- 🌱 Currently learning **MERN + Next.js**  
-- ⚡ Passionate about **AI/ML, Full-Stack Dev, Cybersecurity, App dev**  
-- 🎯 Goal: Become a **Full-Stack Developer & land an internship**  
-- 🚀 Hackathon Explorer | 💡 Side Project Builder  
+# About Me  
+-  CSE (AIML) Student at **JIS College of Engineering**  
+-  Currently learning **MERN + Next.js**  
+-  Passionate about **AI/ML, Full-Stack Dev, Cybersecurity, App dev**  
+-  Goal: Become a **Full-Stack Developer & land an internship**  
+-  Hackathon Explorer | Side Project Builder  
 
 ---
 
-# 🛠️ Tech Stack  
+#  Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,react,express,nodejs,nextjs,html,css,js,git,python" />
@@ -27,12 +27,12 @@
 
 ---
 
-# 🚀 Projects Showcase  
-🔹 **[SynapseAudit]()** – VS Code Extension for Security 🔐  
+#  Projects Showcase  
+🔹 **[SynapseAudit]()** – VS Code Extension for Security  
 
 ---
 
-# 📊 GitHub Analytics  
+#  GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shamonnoy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -45,7 +45,7 @@
 
 ---
 
-# 🌐 Connect With Me  
+# Connect With Me  
 
 <p align="center">
   <a href="mailto:your-shamonnoyhalder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
