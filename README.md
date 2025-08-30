@@ -28,7 +28,7 @@
 🔹 **[SideHustle Scout](#)** – AI recommending personalized side hustles 💼  
 🔹 **[Finance Tracker](#)** – AI-powered Budget & Expense Manager 💰  
 🔹 **[Plant Disease Detection](#)** – AI for Agriculture 🌱  
-🔹 **[SynapseAudit](synapseaudit.digidenone.tech)** – VS Code Extension for Security 🔐  
+🔹 **[SynapseAudit](synapseaudit)** – VS Code Extension for Security 🔐  
 
 ---
 
