@@ -8,7 +8,7 @@
 # 👨‍💻 About Me  
 - 🎓 CSE (AIML) Student at **JIS College of Engineering**  
 - 🌱 Currently learning **MERN + Next.js**  
-- ⚡ Passionate about **AI/ML, Full-Stack Dev, Cybersecurity**  
+- ⚡ Passionate about **AI/ML, Full-Stack Dev, Cybersecurity, App dev**  
 - 🎯 Goal: Become a **Full-Stack Developer & land an internship**  
 - 🚀 Hackathon Explorer | 💡 Side Project Builder  
 
@@ -17,7 +17,7 @@
 # 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nextjs,nodejs,express,mongodb,html,css,js,git,react" />
+  <img src="https://skillicons.dev/icons?i=mongodb,react,express,nodejs,nextjs,html,css,js,git,python" />
 </p>
 
 ---
