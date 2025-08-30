@@ -23,13 +23,12 @@
 
 ---
 
-# 🚀 Projects Showcase  
+<p align="center"> <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="200"/> <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" /> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" /> </p> <p align="center"> 🕹️ When I’m not coding, I’m probably gaming or exploring cool side projects! </p>
 
-🔹 **[FakeBuster](#)** – AI-powered Deepfake & Misinformation Detection 🕵️  
-🔹 **[SideHustle Scout](#)** – AI recommending personalized side hustles 💼  
-🔹 **[Finance Tracker](#)** – AI-powered Budget & Expense Manager 💰  
-🔹 **[Plant Disease Detection](#)** – AI for Agriculture 🌱  
-🔹 **[SynapseAudit](synapseaudit)** – VS Code Extension for Security 🔐  
+---
+
+# 🚀 Projects Showcase  
+🔹 **[SynapseAudit]()** – VS Code Extension for Security 🔐  
 
 ---
 
