@@ -6,6 +6,14 @@
 ---
 <h2 align="center">Hi, I am Shamonnoy. Welcome to my little code space</h2>
 
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/shamonnoyhh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+  </a>
+</p>
+
 # About Me  
 -  CSE (AIML) Student at **JIS College of Engineering**  
 -  Currently learning **MERN + Next.js**  
