@@ -6,11 +6,14 @@
 ---
 <h2 align="center">Hi, I am Shamonnoy. Welcome to my little code space</h2>
 
-## ☕ Support Me
+## ❤️ Support Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/shamonnoyhh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+  <a href="https://github.com/sponsors/Shamonnoy">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
+  <a href="https://buymeacoffee.com/shamonnoyhh">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
   </a>
 </p>
 
